@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Knowledge Graphs
+___
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2022). "CompoundE: Knowledge Graph Embedding with Translation, Rotation and Scaling Compound Operations." <i>submitted to ACL’23 </i> Full text available at <a href="https://doi.org/10.1029/2020JA028800"> Arxiv </a>.
