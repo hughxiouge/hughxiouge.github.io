@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiou Ge"
+title                    : "Hugh (Xiou) Ge"
 title_separator          : "-"
-name                     : &name "Xiou Ge"
-description              : &description "PhD Student at USC in Knowledge Graph and Natural Language Processing"
+name                     : &name "Hugh (Xiou) Ge"
+description              : &description "Ph.D. Candidate at USC specializing in Knowledge Graph"
 url                      : https://hughxiouge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hughxiouge/hughxiouge.github.io"
