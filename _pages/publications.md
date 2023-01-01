@@ -16,7 +16,7 @@ ___
 
 * **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2022). "CORE: A Knowledge Graph Entity Type Prediction Method via Complex Space Regression and Embedding." <i> Pattern Recognition Letters. 157, 97-103.</i> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865522000897">paper</a>] [<a href="https://github.com/hughxiouge/CORE">code</a>].
 
-* Wang, Y. C., **Ge, X.**, Wang, B., & Kuo, C.-C. J. (2022). "KGBoost: A Classification-based Knowledge Base Completion Method with Negative Sampling." <i> Pattern Recognition Letters. 157, 104-111. </i> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865522000939">paper</a>].
+* Wang, Y. C., **Ge, X.**, Wang, B., & Kuo, C.-C. J. (2022). "KGBoost: A Classification-based Knowledge Base Completion Method with Negative Sampling." <i> Pattern Recognition Letters. 157, 104-111. </i> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865522000939">paper</a>] [<a href="https://github.com/yunchengwang/KGBoost-KGC">code</a>].
 
 ## Others
 ___
