@@ -26,7 +26,7 @@ Work experience
 Paper Review
 ======
 * Conferences: ICASSP 2021, ECML 2022, AAAI 2023
-* Journal: IEEE-TNNLS  
+* Journals: IEEE-TNNLS  
 
 <!-- Skills
 ======
