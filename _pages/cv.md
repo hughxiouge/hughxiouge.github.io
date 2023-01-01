@@ -18,12 +18,15 @@ Education
 
 Work experience
 ======
-* Summer 2022: Applied Scientist Intern, Amazon Web Services, Santa Clara, CA   
-
+<!-- * Summer 2023: Applied Scientist Intern, Amazon Web Services, Santa Clara, CA    -->
 * Summer 2018: Research Intern, IBM T.J. Watson Research Center, Yorktown Heights, NY     
 
 * Summer 2016: Engineering Intern, Apple, Cupertino, CA
 
+Paper Review
+======
+* Conferences: ICASSP 2021, ECML 2022, AAAI 2023
+* Journal: IEEE-TNNLS  
 
 <!-- Skills
 ======
