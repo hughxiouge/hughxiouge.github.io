@@ -36,3 +36,8 @@ ___
 * **Ge, X.**, Goodwin, R.T., Yu, H., Romero, P., Abdelrahman, O., Sudhalkar, A., Kusuma, J., Cialdella, R., Garg, N. and Varshney, L.R. (2022). "Accelerated Design and Deployment of Low-Carbon Concrete for Data Centers." <i> ACM SIGCAS Conference on Computing and Sustainable Societies (ACM COMPASS) 2022 </i> [<a href="https://arxiv.org/abs/2204.05397">paper</a>].
 
 * Brown S.E., **Ge, X.**, Rana P., Varshney, L.R., & D. C. Miller (2018). "Network Analysis as a Tool for Shaping Conservation and Development Policy: A Case Study of Timber Market Optimization in India." <i> 5th Data for Good Exchange (D4GX) </i> [<a href="https://hughxiouge.github.io/files/Network_Analysis_Timber.pdf">paper</a>].
+
+## Communication
+___
+
+* Wu T.-Y., **Ge, X.**, & Varshney, L. R. (2018). "Computational Creativity for Valid Rube Goldberg Machines." <i> 52nd Annual Conference on Information Sciences and Systems (CISS) </i> [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8362309">paper</a>].
