@@ -14,8 +14,7 @@ ___
 
 * EE 547: Applied and Cloud Computing. Spring 2021, Fall 2022, Spring 2023
 
-  * This course introduces tools and concepts to deploy and maintain full stack software solutions in modern
-computing environments.
+  * This course introduces tools and concepts to deploy and maintain full stack software solutions in modern computing environments.
 
 
 ## University of Illinois Urbana Champaign
