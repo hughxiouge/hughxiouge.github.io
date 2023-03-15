@@ -25,7 +25,7 @@ Work experience
 
 Paper Review
 ======
-* Conferences: ICASSP 2021, ECML 2022, AAAI 2023, ACL rolling review
+* Conferences: ACL ARR, ACL 2023, AAAI 2023, ECML 2022, ICASSP 2021
 * Journals: IEEE-TNNLS  
 
 <!-- Skills
