@@ -8,9 +8,11 @@ author_profile: true
 ## Knowledge Graphs
 ___
 
-* **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2022). "CompoundE: Knowledge Graph Embedding with Translation, Rotation and Scaling Compound Operations." <i> under review. </i> [<a href="https://arxiv.org/abs/2207.05324">paper</a>] [<a href="https://github.com/hughxiouge/CompoundE">code</a>].
+* **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2023). "Knowledge Graph Embedding with 3D Compound Geometric Transformations" <i> under review </i> [<a href="https://arxiv.org/pdf/2304.00378.pdf">paper</a>]
 
-* Wang, Y. C., **Ge, X.**, Wang, B., & Kuo, C.-C. J. (2022). "GreenKGC: A Lightweight Knowledge Graph Completion Method." <i> under review. </i> [<a href="https://arxiv.org/abs/2208.09137">paper</a>].
+* **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2023). "CompoundE: Knowledge Graph Embedding with Translation, Rotation and Scaling Compound Operations." <i> the 61st Annual Meeting of the Association of Computational Linguistics (ACL), Toronto, Canada. </i> [<a href="https://arxiv.org/abs/2207.05324">paper</a>] [<a href="https://github.com/hughxiouge/CompoundE">code</a>].
+
+* Wang, Y. C., **Ge, X.**, Wang, B., & Kuo, C.-C. J. (2023). "GreenKGC: A Lightweight Knowledge Graph Completion Method." <i> the 61st Annual Meeting of the Association of Computational Linguistics (ACL), Toronto, Canada. </i> [<a href="https://arxiv.org/abs/2208.09137">paper</a>].
 
 * **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2022). "TypeEA: Type-Associated Embedding for Knowledge Graph Entity Alignment." <i> Pattern Recognition Letters. 157, 97-103.</i> [<a href="https://hughxiouge.github.io/files/TypeEA.pdf">paper</a>].
 

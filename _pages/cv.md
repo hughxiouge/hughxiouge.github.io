@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Southern California, 2023 (expected)
+* Ph.D in Electrical and Computer Engineering, University of Southern California, 2023
 * M.S. in Computer Science, University of Southern California, 2022
 * M.S. in Electrical and Computer Engineering, University of Illinois Urbana Champaign, 2018
 * B.S. in Electrical and Computer Engineering, University of Illinois Urbana Champaign, 2016
