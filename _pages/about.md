@@ -12,5 +12,5 @@ I obtained my Ph.D. from [Ming Hsieh Department of Electrical and Computer Engin
 
 Reviewer
 ======
-* Conferences: ACL ARR, ACL 2023, AAAI 2023, ECML 2022, ICASSP 2021
-* Journals: IEEE-TNNLS  
+* Conferences: ACL ARR, AAAI 2024, EMNLP 2023, ACL 2023, AAAI 2023, ECML-PKDD 2022, ICASSP 2021
+* Journals: IEEE-TNNLS, Computer Speech and Language, Neural Processing Letters, Knowledge and Information Systems, Supercomputing, APSIPA-TSIP, IJMLC
