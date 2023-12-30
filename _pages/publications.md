@@ -8,9 +8,9 @@ author_profile: true
 ## Knowledge Graphs
 ___
 
-* **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2023). "Knowledge Graph Embedding: An Overview" <i> under review </i> [<a href="https://arxiv.org/pdf/2308.16055.pdf">paper</a>]
+* **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2023). "Knowledge Graph Embedding: An Overview" <i> under review </i> [<a href="https://arxiv.org/pdf/2309.12501.pdf">paper</a>]
 
-* Wang, Y. C., **Ge, X.**, Wang, B., & Kuo, C.-C. J. (2023). "AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations." <i> under review </i> [<a href="https://arxiv.org/abs/2208.09137">paper</a>].
+* Wang, Y. C., **Ge, X.**, Wang, B., & Kuo, C.-C. J. (2023). "AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations." <i> under review </i> [<a href="https://arxiv.org/pdf/2308.16055.pdf">paper</a>].
 
 * **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2023). "Knowledge Graph Embedding with 3D Compound Geometric Transformations" <i> under review </i> [<a href="https://arxiv.org/pdf/2304.00378.pdf">paper</a>] [<a href="https://github.com/hughxiouge/CompoundE3D">code</a>].
 
