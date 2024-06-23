@@ -23,7 +23,7 @@ ___
 
 * Wang, Y. C., **Ge, X.**, Wang, B., & Kuo, C.-C. J. (2023). "GreenKGC: A Lightweight Knowledge Graph Completion Method." <i> the 61st Annual Meeting of the Association of Computational Linguistics (ACL), Toronto, Canada. </i> [<a href="https://arxiv.org/abs/2208.09137">paper</a>] [<a href="https://github.com/yunchengwang/GreenKGC">code</a>].
 
-* **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2022). "TypeEA: Type-Associated Embedding for Knowledge Graph Entity Alignment." <i> APSIPA Transactions on Signal and Information Processing. </i> [<a href="https://hughxiouge.github.io/files/TypeEA.pdf">paper</a>].
+* **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2022). "TypeEA: Type-Associated Embedding for Knowledge Graph Entity Alignment." <i> APSIPA Transactions on Signal and Information Processing. </i> [<a href="https://www.nowpublishers.com/article/Details/SIP-2022-0039">paper</a>].
 
 * **Ge, X.**, Wang, Y. C., Wang, B., & Kuo, C.-C. J. (2022). "CORE: A Knowledge Graph Entity Type Prediction Method via Complex Space Regression and Embedding." <i> APSIPA Transactions on Signal and Information Processing.</i> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865522000897">paper</a>] [<a href="https://github.com/hughxiouge/CORE">code</a>].
 
