@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Large Language Models
+
+* **Ge, X.**, Mousavi, A., Grave, E., Joulin, A., Qian K., Han, B., Arefiyan, M. & Li, Y. (2024). "Time Sensitive Knowledge Editing through Efficient Finetuning" <i> Proceeding of the 62nd Annual Meeting of the Association of Computational Linguistics (ACL), Bangkok, Thailand. </i> [<a href="https://machinelearning.apple.com/research/time-sensitive-finetuning">paper</a>]
+
 ## Knowledge Graphs
 ___
 
