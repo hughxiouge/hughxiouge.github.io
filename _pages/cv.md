@@ -28,8 +28,8 @@ Work experience
 
 Program Committee
 ======
-* Conferences: ACL ARR, ACL 2024, AAAI 2024, EMNLP 2023, ACL 2023, AAAI 2023, ECML-PKDD 2022, ICASSP 2021
-* Journals: Knowledge-Based Systems, Expert Systems With Applications, IEEE-TNNLS, Artificial Intelligence Review, Computer Speech and Language, Neural Processing Letters, Knowledge and Information Systems, The Journal of Supercomputing, APSIPA-TSIP, IJMLC 
+* Conferences: ACL ARR, AAAI 2025, COLING 2025, ICASSP 2025, EMNLP 2024, ACL 2024, AAAI 2024, EMNLP 2023, ACL 2023, AAAI 2023, ECML-PKDD 2022, ICASSP 2021
+* Journals: IEEE-TPAMI, IEEE-TNNLS, IEEE-TKDE, Knowledge-Based Systems, Neurocomputing, Expert Systems With Applications, Artificial Intelligence Review, Computer Speech and Language, Neural Processing Letters, Knowledge and Information Systems, The Journal of Supercomputing, APSIPA-TSIP, IJMLC 
 
 <!-- Skills
 ======
