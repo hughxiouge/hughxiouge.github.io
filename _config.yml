@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hugh (Xiou) Ge"
 title_separator          : "-"
 name                     : &name "Hugh (Xiou) Ge, Ph.D."
-description              : &description "Large Language Model, Knowledge Editing, Dialog Understanding, Knowledge Graphs, Representation Learning"
+description              : &description "Large Language Model (LLM), Dialog Understanding, LLM Agent, Planning, LLM Knowledge Editing, Knowledge Graphs, Representation Learning"
 url                      : https://hughxiouge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hughxiouge/hughxiouge.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hugh (Xiou) Ge"
   avatar           : "profile.png"
-  bio              : "Large Language Model, Knowledge Editing, Dialog Understanding, Knowledge Graphs, Representation Learning"
+  bio              : "Large Language Model (LLM), Dialog Understanding, LLM Agent, Planning, LLM Knowledge Editing, Knowledge Graphs, Representation Learning"
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
