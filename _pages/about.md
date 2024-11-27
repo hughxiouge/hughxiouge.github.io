@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am presently a Machine Learning Engineer with Siri Conversational Intelligence at Apple Inc. I have also worked with Apple Knowledge Platform as an AI/ML resident to research on Large Language Model Knowledge Editing.
+I am presently a Machine Learning Engineer with Siri Conversational Intelligence at Apple Inc. I have also worked with Apple Knowledge Platform as an AI/ML resident.
 
 Previously, I obtained my Ph.D. from [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/), University of Southern California. My advisor was [Prof. C.-C. Jay Kuo](https://mcl.usc.edu/people/cckuo/). Prior to joining USC, I received my B.S. and M.S. in Electrical and Computer Engineering from University of Illinois Urbana Champaign in 2016 and 2018 respectively. My research interests include Knowledge Graphs (KG), Natural Language Processing (NLP), Computer Vision (CV), Generative AI, AI for Social Good.
 
 Reviewer
 ======
-* Conferences: ACL ARR, AAAI 2024, EMNLP 2023, ACL 2023, AAAI 2023, ECML-PKDD 2022, ICASSP 2021
-* Journals: IEEE-TNNLS, Computer Speech and Language, Neural Processing Letters, Knowledge and Information Systems, Supercomputing, APSIPA-TSIP, IJMLC
+* Conferences: ACL ARR, AAAI 2025, COLING 2025, ICASSP 2025, EMNLP 2024, ACL 2024, AAAI 2024, EMNLP 2023, ACL 2023, AAAI 2023, ECML-PKDD 2022, ICASSP 2021
+* Journals: IEEE-TPAMI, IEEE-TNNLS, IEEE-TKDE, Knowledge-Based Systems, Neurocomputing, Expert Systems With Applications, Artificial Intelligence Review, Computer Speech and Language, Neural Processing Letters, Knowledge and Information Systems, The Journal of Supercomputing, APSIPA-TSIP, IJMLC 
