@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am presently a Machine Learning Engineer with Siri Conversational Intelligence at Apple Inc. Our team's work is launched in [Apple Intelligence](https://www.apple.com/apple-intelligence/). I have also worked with Apple Knowledge Platform as an AI/ML resident. My residency work is featured on [Apple Machine Learning Research](https://machinelearning.apple.com/research/time-sensitive-finetuning) website.
+I am presently a Machine Learning Engineer with Siri Conversational Intelligence at Apple Inc. Our team's work is launched in [Apple Intelligence](https://www.apple.com/apple-intelligence/). I have also worked with Apple Knowledge Platform as an AI/ML resident, reported to [Dr. Yunyao Li](https://yunyaoli.github.io/). My residency work is featured on [Apple Machine Learning Research](https://machinelearning.apple.com/research/time-sensitive-finetuning) website.
 
 Previously, I obtained my Ph.D. from [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/), University of Southern California. My advisor was [Prof. C.-C. Jay Kuo](https://mcl.usc.edu/people/cckuo/). Prior to joining USC, I received my B.S. and M.S. in Electrical and Computer Engineering from University of Illinois Urbana Champaign in 2016 and 2018 respectively. My research interests include Knowledge Graphs (KG), Natural Language Processing (NLP), Computer Vision (CV), Generative AI, AI for Social Good.
 
